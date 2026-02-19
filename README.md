@@ -64,4 +64,4 @@ If you like my work, you can support me ❤️
 
 ---
 
-<h3 align="center">⭐️ From <b>✨ SHREY AGARWAL ✨</b></h3>
+<h3 align="center">⭐️ From <b>✨ <a href="https://github.com/shreyagarwal72">SHREY AGARWAL</a> ✨</b></h3>
