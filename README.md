@@ -103,5 +103,5 @@
 ---
 
 <h3 align="center">
-⭐️ From <a href="https://github.com/shreyagarwal72"><b>✨ SHREY AGARWAL ✨</b></a>
+⭐️ From <a href="https://nextup-hub.vercel.app/"><b>✨ SHREY AGARWAL ✨</b></a>
 </h3>
