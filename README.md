@@ -1,25 +1,25 @@
 <!-- ====================== HEADER ====================== -->
 
 <h1 align="center">Hi 👋, I'm Shrey Agarwal</h1>
-<h3 align="center">🚀 AI Website Developer | 🎨 UI Designer | 📚 PCM Student</h3>
+<h3 align="center">🚀 AI Web Developer • 🎨 UI Designer • 📚 PCM Student</h3>
 
 <p align="center">
   <a href="https://github.com/shreyagarwal72">
-    <img src="https://komarev.com/ghpvc/?username=shreyagarwal72&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=shreyagarwal72&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/github/followers/shreyagarwal72?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/shreyagarwal72?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/shreyagarwal72?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shreyagarwal72?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-✨ Passionate about building **AI-powered web applications**  
-🎯 1+ year experience in **Website Development & UI/UX Designing**  
-📚 Class 11 PCM Student balancing academics & real-world projects  
-⚡ Love creating clean, fast & responsive web experiences  
-🌱 Currently exploring advanced **React ecosystems & backend integration**
+🚀 I build **AI-powered web applications** that are fast, modern, and user-focused  
+🎯 1+ year of experience in **Web Development & UI/UX Design**  
+📚 Currently a **Class 11 PCM student**, blending academics with real-world projects  
+⚡ Focused on **performance, clean UI, and responsive design**  
+🌱 Exploring **advanced React ecosystems & backend integrations**
 
 ---
 
@@ -72,20 +72,20 @@
 
 ---
 
-## 🏆 Achievements & Focus
+## 🏆 Achievements
 
-✔️ AI-integrated Website Projects  
-✔️ Modern Responsive UI Designs  
-✔️ Fast Deployment & Performance Optimization  
-✔️ Continuous Skill Development  
+✔️ Built **AI-integrated web applications**  
+✔️ Designed **modern, responsive UI systems**  
+✔️ Optimized apps for **speed & performance**  
+✔️ Consistently improving through **hands-on projects**
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals for 2026
 
-🚀 Launch impactful AI-based web products  
-🌍 Contribute actively to Open Source  
-🏆 Strengthen DSA & Competitive Programming  
+🚀 Launch impactful **AI-powered products**  
+🌍 Contribute actively to **Open Source**  
+🏆 Improve **DSA & Competitive Programming skills**
 
 ---
 
@@ -103,5 +103,5 @@
 ---
 
 <h3 align="center">
-⭐️ From <a href="https://nextup-hub.vercel.app/"><b>✨ SHREY AGARWAL ✨</b></a>
+⭐️ Built with passion by <a href="https://nextup-hub.vercel.app/"><b>Shrey Agarwal</b></a>
 </h3>
