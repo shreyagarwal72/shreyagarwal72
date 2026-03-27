@@ -17,7 +17,7 @@
 
 🚀 I build **AI-powered web applications** that are fast, modern, and user-focused  
 🎯 1+ year of experience in **Web Development & UI/UX Design**  
-📚 Currently a **Class 11 PCM student**, blending academics with real-world projects  
+📚 Currently a **Class 12 PCM student**, blending academics with real-world projects  
 ⚡ Focused on **performance, clean UI, and responsive design**  
 🌱 Exploring **advanced React ecosystems & backend integrations**
 
