@@ -3,7 +3,7 @@ Hi, I'm Vanshu (Shrey Agarwal) 👋
 Web Developer • UI Designer • Open Source Enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shreyagarwal72&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 </p>I build modern, scalable, and user-focused web applications using contemporary frontend technologies and AI-assisted development workflows.
 
 Currently pursuing Class 12 (PCM) while actively developing software products, contributing to open source, and exploring advanced engineering practices. My interests span frontend architecture, performance optimization, UI/UX systems, and AI-powered developer tooling.
